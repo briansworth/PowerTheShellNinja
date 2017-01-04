@@ -5,7 +5,7 @@ locale: en_US
 description: You power that shell you IT ninja
 logo: site-logo.png
 search: true
-url: http://192.168.1.151:4000
+url: http://http://briansworth.github.io/PowerTheShellNinja
 #url: http://192.168.137.26:4000
 
 # Jekyll configuration
