@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: Power The Shell ninja
 locale: en_US
-description: Describe your website here.
+description: You power that shell you IT ninja
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://192.168.1.151:4000
+#url: http://192.168.137.26:4000
 
 # Jekyll configuration
 
@@ -36,13 +37,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: brian
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: brian@powertheshell.ninja
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: briansworth
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
