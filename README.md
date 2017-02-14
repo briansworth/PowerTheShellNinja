@@ -1,3 +1,3 @@
-# The Tactile theme
+# PowerTheShell.Ninja
 
 Blog testing.
